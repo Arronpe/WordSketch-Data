@@ -4,10 +4,14 @@
     {"wrd": "difTwo", "cat": 1, "dif": 2},
     {"wrd": "difTwo", "cat": 1, "dif": 2},
     {"wrd": "difTwo", "cat": 1, "dif": 2},
+    {"wrd": "difTwo", "cat": 1, "dif": 2},
+    {"wrd": "difTwo", "cat": 1, "dif": 2},
     
     {"wrd": "difFour", "cat": 2, "dif": 4},
     {"wrd": "difThree", "cat": 2, "dif": 3},
     {"wrd": "difThree", "cat": 2, "dif": 3},
+    {"wrd": "difTwo", "cat": 2, "dif": 2},
+    {"wrd": "difTwo", "cat": 2, "dif": 2},
     {"wrd": "difTwo", "cat": 2, "dif": 2},
     {"wrd": "difTwo", "cat": 2, "dif": 2},
     {"wrd": "difTwo", "cat": 2, "dif": 2},
@@ -17,8 +21,9 @@
     {"wrd": "difThree", "cat": 3, "dif": 3},
     {"wrd": "difTwo", "cat": 3, "dif": 2},
     {"wrd": "difTwo", "cat": 3, "dif": 2},
+    {"wrd": "difTwo", "cat": 3, "dif": 2},
+    {"wrd": "difTwo", "cat": 3, "dif": 2},
     {"wrd": "difTwo", "cat": 3, "dif": 2}
-
-    
+ 
 ]
 
