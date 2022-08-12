@@ -1,8 +1,18 @@
-[{"wrd": "difTwo", "cat": 1, "dif": 2},
-
-    {"wrd": "difTwo", "cat": 2, "dif": 2},
-
-    {"wrd": "difTwo", "cat": 3, "dif": 2}
-
-]
-
+[{"wrd": "javelin", "cat": 1, "dif": 2},
+    {"wrd": "skunk", "cat": 1, "dif": 2},
+    {"wrd": "iceberg", "cat": 1, "dif": 2},
+    {"wrd": "torpedo", "cat": 1, "dif": 3},
+    {"wrd": "mallet", "cat": 1, "dif": 4},
+ 
+    {"wrd": "strike", "cat": 2, "dif": 3},
+    {"wrd": "spill", "cat": 2, "dif": 4},
+    {"wrd": "reach", "cat": 2, "dif": 2},
+    {"wrd": "swing", "cat": 2, "dif": 2},
+    {"wrd": "crank", "cat": 2, "dif": 2},
+ 
+    {"wrd": "Lincoln", "cat": 3, "dif": 3},
+    {"wrd": "Ringo", "cat": 3, "dif": 4},
+    {"wrd": "Everest", "cat": 3, "dif": 2},
+    {"wrd": "Japan", "cat": 3, "dif": 2},
+    {"wrd": "Thanksgiving", "cat": 3, "dif": 2}
+ ]
