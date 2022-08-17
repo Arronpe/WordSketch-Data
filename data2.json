@@ -1,10 +1,33 @@
-[{"wrd": "javelin", "cat": 1, "dif": 3},
-    {"wrd": "skunk", "cat": 1, "dif": 2},
- 
-    {"wrd": "strike", "cat": 2, "dif": 3},
-    {"wrd": "spill", "cat": 2, "dif": 2,
- 
-    {"wrd": "Lincoln", "cat": 3, "dif": 3},
-    {"wrd": "Thanksgiving", "cat": 3, "dif": 2}
+[{
+		"wrd": "javelin",
+		"cat": 1,
+		"dif": 3
+	},
+	{
+		"wrd": "skunk",
+		"cat": 1,
+		"dif": 2
+	},
+
+	{
+		"wrd": "strike",
+		"cat": 2,
+		"dif": 3
+	},
+	{
+		"wrd": "spill",
+		"cat": 2,
+		"dif": 2
+	},
+	{
+		"wrd": "Lincoln",
+		"cat": 3,
+		"dif": 3
+	},
+	{
+		"wrd": "Thanksgiving",
+		"cat": 3,
+		"dif": 2
+	}
 ]
 
