@@ -111,7 +111,7 @@
     {"wrd": "Cuba", "cat": 3, "dif": 2},
     {"wrd": "Egypt", "cat": 3, "dif": 2},
     {"wrd": "Ecuador", "cat": 3, "dif": 3},
-    {"wrd": "Batman", "cat": 3, "dif": 2},
+    {"wrd": "Chewbacca", "cat": 3, "dif": 2},
     {"wrd": "Saturn", "cat": 3, "dif": 3},
     {"wrd": "India", "cat": 3, "dif": 2},
     {"wrd": "Montana", "cat": 3, "dif": 2},
@@ -153,3 +153,4 @@
     {"wrd": "Niagara", "cat": 3, "dif": 2}
     
 ]
+
