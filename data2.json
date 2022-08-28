@@ -18,7 +18,7 @@
     {"wrd": "harpoon", "cat": 1, "dif": 4},
     {"wrd": "buoy", "cat": 1, "dif": 2},
     {"wrd": "monocle", "cat": 1, "dif": 2},
-    {"wrd": "trohpy", "cat": 1, "dif": 2},
+    {"wrd": "trophy", "cat": 1, "dif": 2},
     {"wrd": "tambourine", "cat": 1, "dif": 2},
     {"wrd": "waffle", "cat": 1, "dif": 2},
     {"wrd": "goat", "cat": 1, "dif": 2},
@@ -72,7 +72,7 @@
     {"wrd": "lift", "cat": 2, "dif": 2},
     {"wrd": "skate", "cat": 2, "dif": 2},
     {"wrd": "type", "cat": 2, "dif": 2},
-    {"wrd": "wind", "cat": 2, "dif": 4},
+    {"wrd": "wind", "cat": 2, "dif": 2},
     {"wrd": "sweep", "cat": 2, "dif": 2},
     {"wrd": "putt", "cat": 2, "dif": 2},
     {"wrd": "fly", "cat": 2, "dif": 2},
@@ -153,6 +153,8 @@
     {"wrd": "empty", "cat": 4, "dif": 2}
     
 ]
+
+
 
 
 
