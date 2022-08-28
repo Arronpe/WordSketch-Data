@@ -105,7 +105,7 @@
     {"wrd": "Ringo", "cat": 3, "dif": 4},
     {"wrd": "Everest", "cat": 3, "dif": 2},
     {"wrd": "Japan", "cat": 3, "dif": 2},
-    {"wrd": "Christmas", "cat": 3, "dif": 2},
+    {"wrd": "Halloween", "cat": 3, "dif": 2},
     {"wrd": "Nevada", "cat": 3, "dif": 2},
     {"wrd": "Vermont", "cat": 3, "dif": 2},
     {"wrd": "Cuba", "cat": 3, "dif": 2},
@@ -153,5 +153,6 @@
     {"wrd": "Vancouver", "cat": 3, "dif": 2}
     
 ]
+
 
 
