@@ -1,3 +1,4 @@
+
 [{"wrd": "javelin", "cat": 1, "dif": 2},
     {"wrd": "skunk", "cat": 1, "dif": 2},
     {"wrd": "iceberg", "cat": 1, "dif": 2},
@@ -8,7 +9,7 @@
     {"wrd": "spigot", "cat": 1, "dif": 3},
     {"wrd": "gallows", "cat": 1, "dif": 2},
     {"wrd": "outhouse", "cat": 1, "dif": 2},
-    {"wrd": "harpoon", "cat": 1, "dif": 4},
+    {"wrd": "bustle", "cat": 1, "dif": 4},
     {"wrd": "anteater", "cat": 1, "dif": 2},
     {"wrd": "gong", "cat": 1, "dif": 2},
     {"wrd": "thimble", "cat": 1, "dif": 2},
@@ -104,7 +105,7 @@
     {"wrd": "Ringo", "cat": 3, "dif": 4},
     {"wrd": "Everest", "cat": 3, "dif": 2},
     {"wrd": "Japan", "cat": 3, "dif": 2},
-    {"wrd": "Halloween", "cat": 3, "dif": 2},
+    {"wrd": "Christmas", "cat": 3, "dif": 2},
     {"wrd": "Nevada", "cat": 3, "dif": 2},
     {"wrd": "Vermont", "cat": 3, "dif": 2},
     {"wrd": "Cuba", "cat": 3, "dif": 2},
@@ -132,7 +133,7 @@
     {"wrd": "Mecca", "cat": 3, "dif": 3},
     {"wrd": "Alcatraz", "cat": 3, "dif": 3},
     {"wrd": "Graceland", "cat": 3, "dif": 4},
-    {"wrd": "Aladdin", "cat": 3, "dif": 2},
+    {"wrd": "Vanna", "cat": 3, "dif": 2},
     {"wrd": "Medusa", "cat": 3, "dif": 2},
     {"wrd": "Gandhi", "cat": 3, "dif": 3},
     {"wrd": "Ireland", "cat": 3, "dif": 2},
@@ -152,4 +153,5 @@
     {"wrd": "Vancouver", "cat": 3, "dif": 2}
     
 ]
+
 
