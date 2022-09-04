@@ -2,7 +2,7 @@
 [{"wrd": "javelin", "cat": 1, "dif": 2},
     {"wrd": "skunk", "cat": 1, "dif": 2},
     {"wrd": "iceberg", "cat": 1, "dif": 2},
-    {"wrd": "binoculars", "cat": 1, "dif": 2},
+    {"wrd": "telescope", "cat": 1, "dif": 2},
     {"wrd": "abacus", "cat": 1, "dif": 4},
     {"wrd": "beret", "cat": 1, "dif": 2},
     {"wrd": "scarecrow", "cat": 1, "dif": 2},
@@ -16,7 +16,7 @@
     {"wrd": "sprinkler", "cat": 1, "dif": 2},
     {"wrd": "easel", "cat": 1, "dif": 2},
     {"wrd": "miniskirt", "cat": 1, "dif": 2},
-    {"wrd": "wolf", "cat": 1, "dif": 3},
+    {"wrd": "hare", "cat": 1, "dif": 3},
     {"wrd": "yoke", "cat": 1, "dif": 3},
     {"wrd": "blimp", "cat": 1, "dif": 2},
     {"wrd": "hairpiece", "cat": 1, "dif": 2},
@@ -27,7 +27,7 @@
     {"wrd": "piñata", "cat": 1, "dif": 2},
     {"wrd": "reflector", "cat": 1, "dif": 2},
     {"wrd": "woodpecker", "cat": 1, "dif": 2},
-    {"wrd": "snorkel", "cat": 1, "dif": 2},
+    {"wrd": "pinwheel", "cat": 1, "dif": 2},
     {"wrd": "jack", "cat": 1, "dif": 2},
     {"wrd": "forklift", "cat": 1, "dif": 2},
     {"wrd": "toaster", "cat": 1, "dif": 2},
@@ -37,8 +37,8 @@
     {"wrd": "ostrich", "cat": 1, "dif": 2},
     {"wrd": "eggplant", "cat": 1, "dif": 2},
     {"wrd": "corset", "cat": 1, "dif": 3},
-    {"wrd": "gangplank", "cat": 1, "dif": 4},
-    {"wrd": "pagoda", "cat": 1, "dif": 4},
+    {"wrd": "stent", "cat": 1, "dif": 4},
+    {"wrd": "mural", "cat": 1, "dif": 4},
     {"wrd": "hurdle", "cat": 1, "dif": 2},
     {"wrd": "bat", "cat": 1, "dif": 2},
     {"wrd": "boomerang", "cat": 1, "dif": 2},
@@ -46,7 +46,7 @@
     {"wrd": "gondola", "cat": 1, "dif": 4},
     {"wrd": "jellyfish", "cat": 1, "dif": 3},
     {"wrd": "barge", "cat": 1, "dif": 3},
-    {"wrd": "galoshes", "cat": 1, "dif": 4},
+    {"wrd": "derby", "cat": 1, "dif": 4},
     {"wrd": "trombone", "cat": 1, "dif": 2},
     {"wrd": "locket", "cat": 1, "dif": 3},
     
@@ -62,9 +62,9 @@
     {"wrd": "blend", "cat": 2, "dif": 2},
     {"wrd": "tip", "cat": 2, "dif": 3},
     {"wrd": "hug", "cat": 2, "dif": 2},
-    {"wrd": "mount", "cat": 2, "dif": 3},
+    {"wrd": "mount", "cat": 2, "dif": 4},
     {"wrd": "kick", "cat": 2, "dif": 2},
-    {"wrd": "capture", "cat": 2, "dif": 4},
+    {"wrd": "capture", "cat": 2, "dif": 3},
     {"wrd": "split", "cat": 2, "dif": 2},
     {"wrd": "point", "cat": 2, "dif": 2},
     {"wrd": "pull", "cat": 2, "dif": 2},
@@ -106,7 +106,7 @@
     {"wrd": "Everest", "cat": 3, "dif": 2},
     {"wrd": "Japan", "cat": 3, "dif": 2},
     {"wrd": "Halloween", "cat": 3, "dif": 2},
-    {"wrd": "Nevada", "cat": 3, "dif": 2},
+    {"wrd": "Georgia", "cat": 3, "dif": 2},
     {"wrd": "Vermont", "cat": 3, "dif": 2},
     {"wrd": "Cuba", "cat": 3, "dif": 2},
     {"wrd": "Egypt", "cat": 3, "dif": 2},
@@ -153,6 +153,7 @@
     {"wrd": "Vancouver", "cat": 3, "dif": 2}
     
 ]
+
 
 
 
